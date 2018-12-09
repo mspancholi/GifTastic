@@ -1,2 +1,2 @@
 # GifTastic
-Fifth Week Homework - GifTastic (Ajax,API)
+Sixth Week Homework - GifTastic (Ajax,API)
